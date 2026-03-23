@@ -1,1 +1,2 @@
-print("happy to see you")
+x=2
+print(x)
