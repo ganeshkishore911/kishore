@@ -1,1 +1,1 @@
-print("fghjkjhcx")
+x=2000000
